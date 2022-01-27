@@ -1,2 +1,2 @@
 # potential-funicular
-An attempt to explain popular blockchain topics. 
+A website that is dedicated to exploring crypto-related topics as well as any interesting market analysis. 
