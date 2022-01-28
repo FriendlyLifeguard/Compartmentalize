@@ -1,2 +1,2 @@
 # Compartmentalize
-A website that is dedicated to exploring crypto-related topics as well as any interesting market analysis. 
+A website that is dedicated to thought provoking ideas in relation with blockchain and the stock market
